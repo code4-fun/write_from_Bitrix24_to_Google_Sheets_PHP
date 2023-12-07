@@ -1,0 +1,11 @@
+{
+  "require": {
+    "ext-curl": "*",
+    "google/apiclient": "^2.15"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4.21"
+    }
+  }
+}
